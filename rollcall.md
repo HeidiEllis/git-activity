@@ -6,6 +6,10 @@ Rollcall
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
 _Are we doing this in reverse alphabetical order?_
+* Heidi Ellis, Western New England University
+  * On GitHub: heidiellis
+  * on email: ellis@wne.edu
+  * on irc: heidi or heidie
 
 * Samuel A. Rebelsky, Grinnell College
   * On GitHub: rebelsky
